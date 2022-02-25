@@ -6,6 +6,7 @@
 .pnp.js
 snippets.ini
 git.txt
+git.ini
 
 # testing
 /coverage
