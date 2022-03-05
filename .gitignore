@@ -5,8 +5,9 @@
 /.pnp
 .pnp.js
 snippets.ini
-git.txt
 git.ini
+test.js
+package-lock.json
 
 # testing
 /coverage
